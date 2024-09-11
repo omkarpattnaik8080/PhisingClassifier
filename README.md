@@ -39,7 +39,7 @@ The classifier is trained on labeled datasets, evaluated using accuracy, precisi
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/phishing-classifier.git
+   git clone https://github.com/omkarpattnaik8080/phishing-classifier.git
    ```
 2. Install dependencies:
    ```bash
